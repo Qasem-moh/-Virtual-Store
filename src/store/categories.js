@@ -3,12 +3,12 @@ let initialState = {
     {
       normalizedName: 'ALL',
       displayName: 'ALL',
-      description: 'All the goodies 😉'
+      description: 'All the categorize 😉'
     },
     {
       normalizedName: 'FOOD',
       displayName: 'FOOD',
-      description: 'You are what you eat 🤤'
+      description: 'You are what you eat 😋'
     },
     {
       normalizedName: 'ELECTRONICS',
