@@ -26,11 +26,11 @@ let initialState = {
     },
     {
       category: 'FOOD',
-      name: 'Za3aanef',
-      description: 'fish fish fish fish 🐟',
+      name: 'Kulcha',
+      description: 'Kulcha',
       price: 12,
       inventory: 7,
-      imgUrl: '/assets/fins.jpg'
+      imgUrl: '/assets/Kulcha.jpeg'
     },
     {
       category: 'ELECTRONICS',
@@ -59,7 +59,7 @@ let initialState = {
     {
       category: 'ELECTRONICS',
       name: 'PC',
-      description: 'RGB RGB RGB RGB 🔴 🟢 🔵',
+      description: 'PC',
       price: 1200,
       inventory: 3,
       imgUrl: '/assets/pc.jpg'
