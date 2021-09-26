@@ -1,8 +1,7 @@
 import React from 'react';
 import {
   Typography,
-  Button,
-  img
+  Button
 } from '@material-ui/core';
 import { useSelector } from 'react-redux';
 
@@ -18,7 +17,7 @@ function Header() {
         >
           Virtual Store
         </Typography>
-        <Button ml="auto" color="inherit"> 🛒 ({cartItemsCount})</Button>
+        <Button ml="auto" color="inherit"> Card ({cartItemsCount})</Button>
       </header>
     </div>
   );
