@@ -18,7 +18,7 @@ function Header() {
         >
           Virtual Store
         </Typography>
-        <Button ml="auto" color="inherit"> <img src="" alt=""/> ({cartItemsCount})</Button>
+        <Button ml="auto" color="inherit"> 🛒 ({cartItemsCount})</Button>
       </header>
     </div>
   );

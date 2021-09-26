@@ -2,19 +2,27 @@ let initialState = {
   products: [
     {
       category: 'FOOD',
-      name: 'Sabaane5',
-      description: 'ZAAAAAAAAAAAAKI',
+      name: 'Grilled Chicken',
+      description: 'Full chicken marinated.',
       price: 1000,
       inventory: 35,
-      imgUrl: '/assets/spinach.jpg'
+      imgUrl: '/assets/Grilled Chicken.jpg'
     },
     {
       category: 'FOOD',
-      name: '6a7aaleb',
-      description: 'What can I say 🤷',
+      name: 'Chicken Plate Shawarma',
+      description: 'Contains chicken.',
+      price: 1000,
+      inventory: 35,
+      imgUrl: '/assets/Chicken Plate Shawarma.jpeg'
+    },
+    {
+      category: 'FOOD',
+      name: 'Chicken Tandoori',
+      description: 'Juicy chicken',
       price: 500,
       inventory: 17,
-      imgUrl: '/assets/algae.jpg'
+      imgUrl: '/assets/Chicken Tandoori.jpeg'
     },
     {
       category: 'FOOD',
@@ -25,12 +33,20 @@ let initialState = {
       imgUrl: '/assets/fins.jpg'
     },
     {
-      category: 'FOOD',
-      name: 'Baatenjaan',
-      description: '🍆🍆🍆🍆🍆🍆🍆',
+      category: 'ELECTRONICS',
+      name: 'laptops Acer',
+      description: 'laptops Acer',
+      price: '500$',
+      inventory: 8,
+      imgUrl: '/assets/acer.jpg'
+    },
+    {
+      category: 'ELECTRONICS',
+      name: 'Lenovo Chromebook S330',
+      description: 'Lenovo Chromebook S330',
       price: 3,
       inventory: 8,
-      imgUrl: '/assets/eggplants.jpg'
+      imgUrl: '/assets/Lenovo.jpg'
     },
     {
       category: 'ELECTRONICS',
